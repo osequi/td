@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "tsc src/index.ts && node src/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
